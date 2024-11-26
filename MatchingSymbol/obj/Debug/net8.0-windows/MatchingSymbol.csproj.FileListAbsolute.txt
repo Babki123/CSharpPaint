@@ -1,0 +1,16 @@
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\MatchingSymbol.Form1.resources
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\MatchingSymbol.csproj.GenerateResource.cache
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\MatchingSymbol.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\MatchingSymbol.AssemblyInfoInputs.cache
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\MatchingSymbol.AssemblyInfo.cs
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\MatchingSymbol.csproj.CoreCompileInputs.cache
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\bin\Debug\net8.0-windows\MatchingSymbol.exe
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\bin\Debug\net8.0-windows\MatchingSymbol.deps.json
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\bin\Debug\net8.0-windows\MatchingSymbol.runtimeconfig.json
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\bin\Debug\net8.0-windows\MatchingSymbol.dll
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\bin\Debug\net8.0-windows\MatchingSymbol.pdb
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\MatchingSymbol.dll
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\refint\MatchingSymbol.dll
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\MatchingSymbol.pdb
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\MatchingSymbol.genruntimeconfig.cache
+G:\Prog\C#\MatchingSymbol\MatchingSymbol\MatchingSymbol\obj\Debug\net8.0-windows\ref\MatchingSymbol.dll
